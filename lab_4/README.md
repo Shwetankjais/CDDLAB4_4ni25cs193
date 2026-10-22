@@ -36,5 +36,30 @@ The experiment demonstrates repository management, issue tracking, forking, pull
 
 For questions or suggestions, please open an issue in this repository.
 
-Contributions are welcome through pull requests.
+Contributions are welcome through pull requests.   
+
+## Practical Evidence and Links
+
+### 1. Main Lab Repository
+[CDDLAB4_4ni25cs193](https://github.com/Shwetankjais/CDDLAB4_4ni25cs193)
+
+### 2. Issue Tracking
+[Issue #1 — Add contact information to README](https://github.com/Shwetankjais/CDDLAB4_4ni25cs193/issues/1)
+
+### 3. Forked Repository
+[My fork — CDD-Lab-4](https://github.com/Shwetankjais/CDD-Lab-4)
+
+[Original repository — ShivanshGanguly/CDD-Lab-4](https://github.com/ShivanshGanguly/CDD-Lab-4)
+
+### 4. Feature Branch
+Branch name: `add-contact-info`
+
+### 5. Pull Request
+[Pull Request #3 — Add contact information to README](https://github.com/ShivanshGanguly/CDD-Lab-4/pull/3)
+
+### 6. Code Review
+A review comment was submitted on Pull Request #3. The pull request is awaiting review and merge by the original repository owner.
+
+## Conclusion
+This experiment demonstrated GitHub repository management, issue tracking, forking, feature branches, commits, pull requests, and code review.
 
