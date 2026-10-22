@@ -31,5 +31,10 @@ To create and manage GitHub repositories, track issues, fork repositories, creat
 7. Review the changes, provide feedback, and merge the pull request when approved.
 
 ## Result
-The experiment demonstrates repository management, issue tracking, forking, pull requests, and code review using GitHub.
+The experiment demonstrates repository management, issue tracking, forking, pull requests, and code review using GitHub. 
+## Contact and Contributions
+
+For questions or suggestions, please open an issue in this repository.
+
+Contributions are welcome through pull requests.
 
